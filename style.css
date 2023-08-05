@@ -1,0 +1,18 @@
+#background {
+    background-color: black;
+}
+#mainh1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: capitalize;
+}
+#whitetext {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    width: 50%;
+    margin-left: 25%
+}
+#video {
+    border: 10px solid white;
+    width: 75%;
+}
